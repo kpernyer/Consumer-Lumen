@@ -1,0 +1,7 @@
+{
+  "name": "KnowledgeLoop AI",
+  "description": "A dual-interface platform for Knowledge Producers to certify content and Consumers to experience adaptive learning via text, generated podcasts, or live AI participation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
